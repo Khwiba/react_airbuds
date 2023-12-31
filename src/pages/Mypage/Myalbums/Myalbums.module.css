@@ -104,6 +104,7 @@
     border: 1px solid #ccc;
     margin-top: 20px;
     transition: 0.2s;
+    height: 250px;
   }
 
   .container:hover{
